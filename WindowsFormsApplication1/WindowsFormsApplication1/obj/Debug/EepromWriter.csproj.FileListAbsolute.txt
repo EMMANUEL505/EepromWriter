@@ -7,3 +7,12 @@ C:\Users\e882742\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\
 C:\Users\e882742\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\e882742\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\e882742\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\EepromWriter.csproj.GenerateResource.Cache
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\EepromWriter.csprojResolveAssemblyReference.cache
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\e882742\Documents\Visual Studio 2015\Projects\EepromWriter\trunk\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\EepromWriter.csproj.GenerateResource.Cache
